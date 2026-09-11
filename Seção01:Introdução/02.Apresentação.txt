@@ -1,0 +1,221 @@
+Então galera, vamos lá, vamos conhecer o curso por dentro, vamos entender o que que a gente vai aprender
+
+em cada uma das sessões, tá?
+
+Se tu ver a meu convite aí sobre essa aula liberada, é a hora de entender o que tu vai passar aqui
+
+pelo treinamento.
+
+Isso já tá dentro do curso.
+
+Bora lá que já começou e vamos aprender!
+
+Next, né?
+
+Então, a primeira sessão é de introdução, tá?
+
+A gente vai ter um pouco de teoria para botar todo mundo no mesmo lugar, né?
+
+Nivelar a galera sobre as questões do que é React, do que é next spa, server, side rendering e alguns
+
+conceitos que a gente vai trabalhar durante as aulas.
+
+A gente vai ter também a instalação do Next para criar o primeiro projeto e fazer o nosso Hello World,
+
+tá?
+
+Então, claro, aqui eu subdividi os pontos principais, mas tem muitas aulas, como vocês podem conferir
+
+ali na grade do curso, tá?
+
+Mas na teoria, esse é o resumão da sessão, tá?
+
+Então, na introdução a gente faz isso, depois a gente vai para páginas de navegação e a gente vai
+
+entender como é que funciona a questão de páginas do Next, que é um dos mecanismos core do framework.
+
+E isso é obrigatório para a gente poder dar andamento no curso e aprender sobre a questão de linkagem
+
+de páginas, redirecionamento, diferenças de client server components, que é algo também core do next
+
+a criação de layouts e não propriamente o layout.
+
+É aí que o usuário vai acessar, mas que a estrutura de layouts do Next que vamos dizer de forma mais
+
+simples, os elementos que se repetem em todas as telas, né?
+
+E essa seção, apesar de ser nomeada páginas e navegação, ela também dá a introdução de muitos conceitos
+
+que a gente vai reutilizar em todas as outras.
+
+É a base do Next.
+
+Depois a gente aprende um pouco de estilização.
+
+No Next, ele já tá preparado para trabalhar com várias bibliotecas, vários frameworks.
+
+A gente vai ver cada um deles.
+
+E os principais que coloquei aqui são o CSS global, que a gente tem todos os projetos basicamente desde
+
+lá do React aprender a trabalhar com o ID no next.
+
+CSS em JS e SASS tem mais algumas outras coisas que a gente vai ver aqui, mas os principais conceitos
+
+são esses.
+
+A gente vai aprender a dar um estilo aí para os projetos com Next.
+
+Depois a gente vem para outro conceito muito importante do Next, que são o fetch e server actions,
+
+que é basicamente como a gente vai lidar com o banco de dados numa aplicação.
+
+Next 14 Mais que eu acredito que seja o interesse de todos vocês aqui.
+
+E é para onde o Next está virando, né?
+
+É o futuro do Next.
+
+Então a gente tem fetch, que seria o resgate de dados e server actions, que seria as outras operações
+
+como inserção, atualização e remoção.
+
+Tá, é uma sessão baseada em projeto, então isso dá uma imersão melhor, porque a gente já cria algo
+
+real, baseado nos recursos que a gente vai aprender.
+
+Então vai ser bem pausado.
+
+Aqui ainda vai ter teoria e prática, mas a gente vai estar saindo do zero do projeto até o estado completo
+
+dele.
+
+A gente vai terminar a sessão cinco, tá?
+
+Mas só para vocês entenderem esse processo que é importante, tá?
+
+É aqui que a gente vai ter a interação com o banco de dados e o Next.
+
+A gente vai fazer um CRUD no nosso primeiro CRUD com o Next e também vai aprender algumas formas de
+
+tratar.
+
+A gente.
+
+Não vai entrar muito em detalhes aqui, mas vai ser uma sessão para dar o pontapé inicial para isso
+
+também, que é muito importante na segurança do projeto e tratar erros é uma ação que adiciona a segurança.
+
+Beleza.
+
+Depois a gente vai para uma camada que também é muito tratada no Next, como estar trabalhando com server
+
+side rendering.
+
+A gente tem o cast para ajudar a gente a otimizar o nosso projeto, mas o cast as vezes acaba atrapalhando
+
+em algumas situações, então a gente vai entender como ele funciona de cabo a rabo até conseguir compreender
+
+o que tá rolando no processo de build, que é onde gera o cast do Next e vai aprender a aplicar todas
+
+as estratégias que vão revalidar o cast quando a gente quiser baseado em tempo, por exemplo, tirar
+
+totalmente o cast ou sob demanda, que é só em pontos específicos que é uma estratégia utilizada também.
+
+Tá, então a gente vai entender como é que funciona e aplicar algumas situações para poder se livrar
+
+de possíveis problemas que o cast pode gerar.
+
+A gente vem para a Next Half, que também é uma sessão baseada em projeto que deságua, digamos assim,
+
+lá no Next.
+
+Então a gente cria um novo projeto aqui e aprende a aplicar a autenticação com o Next Half, que é a
+
+biblioteca mais utilizada em autenticação do Next.
+
+Tá?
+
+Então a gente vai utilizar o login social do Google, mais especificamente, mas vocês vão ver que qualquer
+
+outro que eles tenham integração é a mesma coisa.
+
+A gente só vai ter que pegar as chaves de API do que a gente quer.
+
+Tá, vai aprender a proteger partes baseado na sessão do usuário, que é algo bem importante.
+
+Quando a gente adiciona autenticação e também alguns mirrors para entender como que a gente pode fazer
+
+a trava, digamos assim, de uma requisição baseado na autenticação do usuário.
+
+Tá, então uma sessão bem densa, uma biblioteca que não é tão simples de utilizar.
+
+E como eu falei antes, ela dá base para o nosso Next Grunt, que é o projeto que eu mostrei para vocês
+
+lá na aula de introdução do curso e da apresentação do curso.
+
+E ele é baseado no Instagram.
+
+Tá, é um projeto bem completo e a gente já pega o gancho para não ter que refazer toda essa questão
+
+de novo, né?
+
+Isso vai nos proporcionar a ganhar tempo, partir mais para a questão de regra de negócio atrelado ao
+
+Next, que é algo que vocês vão lidar muito no dia a dia.
+
+Bom, essa daqui é a grade curricular do curso no seu lançamento, mas provavelmente no dia que está
+
+assistindo o vídeo aqui já esteja até maior que isso, tá?
+
+É o mínimo que eu recomendo que tu aprenda de Next para realmente dizer que sabe o Next.
+
+Então, dominar isso aqui tudo, entender todos os conceitos, fazer os deveres que eu peço para tu
+
+fazer durante o curso vai com certeza ser um bom profissional do The Next, tá?
+
+Mas tem outros assuntos que são legais também de abordar aqui no curso que a gente vai abordando gradativamente
+
+com o evoluir dele, tá?
+
+Como eu falei lá na aula de introdução também, a gente tem acesso a atualizações periódicas que a gente
+
+vai colocar Quando?
+
+Quando eu ver que tem algum assunto que a galera tá pedindo muito?
+
+Quando é que se atualizar a diversão, né?
+
+Quando o Next lançar uma funcionalidade nova, que não necessariamente atualize a versão, mas seja
+
+interessante de mostrar a implementação.
+
+Quando eu colocar um projeto novo aí para a gente poder trabalhar em outros aspectos que existem também
+
+na programação com Next, Tá, também vai ter uma equipe de suporte que vai tirar todas as tuas dúvidas,
+
+te acompanhar durante o curso para poder transformar esse teu aprendizado no mais retilíneo possível
+
+para evitar os problemas ou minimizar eles.
+
+E no final tu tem certificado de conclusão, é claro.
+
+O acesso é vitalício.
+
+Esse curso aqui tá?
+
+Então galera, essa daqui é a apresentação do curso de Next, tá?
+
+O curso vai girar em torno disso aqui no seu lançamento, mas como eu falei, a gente vai expandir futuramente
+
+depois.
+
+Beleza, então, espero que vocês tenham curtido.
+
+Se tu ainda não adquiriu, adquire a tua chance agora de dominar o Next.
+
+Isso já adquiriu.
+
+Bora para a próxima aula que a gente vai começar aqui, ó!
+
+Introdução Teoria Entender mais sobre o Next para depois colocar a mão na massa.
